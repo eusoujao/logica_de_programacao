@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686096049 source:c:\users\jão\onedrive\Área de trabalho\curso da udemy\linguagem c\2°estrutura condicional\exercicios com if e else\exercicio6_glicose\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

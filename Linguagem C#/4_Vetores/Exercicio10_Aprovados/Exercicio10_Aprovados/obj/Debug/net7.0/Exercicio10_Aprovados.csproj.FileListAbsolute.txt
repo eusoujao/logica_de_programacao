@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio10_Aprovados\Exercicio10_Aprovados\bin\Debug\net7.0\Exercicio10_Aprovados.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio10_Aprovados\Exercicio10_Aprovados\bin\Debug\net7.0\Exercicio10_Aprovados.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio10_Aprovados\Exercicio10_Aprovados\bin\Debug\net7.0\Exercicio10_Aprovados.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio10_Aprovados\Exercicio10_Aprovados\bin\Debug\net7.0\Exercicio10_Aprovados.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio10_Aprovados\Exercicio10_Aprovados\bin\Debug\net7.0\Exercicio10_Aprovados.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio10_Aprovados\Exercicio10_Aprovados\obj\Debug\net7.0\Exercicio10_Aprovados.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio10_Aprovados\Exercicio10_Aprovados\obj\Debug\net7.0\Exercicio10_Aprovados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio10_Aprovados\Exercicio10_Aprovados\obj\Debug\net7.0\Exercicio10_Aprovados.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio10_Aprovados\Exercicio10_Aprovados\obj\Debug\net7.0\Exercicio10_Aprovados.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio10_Aprovados\Exercicio10_Aprovados\obj\Debug\net7.0\Exercicio10_Aprovados.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio10_Aprovados\Exercicio10_Aprovados\obj\Debug\net7.0\Exercicio10_Aprovados.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio10_Aprovados\Exercicio10_Aprovados\obj\Debug\net7.0\refint\Exercicio10_Aprovados.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio10_Aprovados\Exercicio10_Aprovados\obj\Debug\net7.0\Exercicio10_Aprovados.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio10_Aprovados\Exercicio10_Aprovados\obj\Debug\net7.0\Exercicio10_Aprovados.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio10_Aprovados\Exercicio10_Aprovados\obj\Debug\net7.0\ref\Exercicio10_Aprovados.dll

@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio1_Notas\Exercicio1_Notas\bin\Debug\net7.0\Exercicio1_Notas.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio1_Notas\Exercicio1_Notas\bin\Debug\net7.0\Exercicio1_Notas.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio1_Notas\Exercicio1_Notas\bin\Debug\net7.0\Exercicio1_Notas.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio1_Notas\Exercicio1_Notas\bin\Debug\net7.0\Exercicio1_Notas.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio1_Notas\Exercicio1_Notas\bin\Debug\net7.0\Exercicio1_Notas.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio1_Notas\Exercicio1_Notas\obj\Debug\net7.0\Exercicio1_Notas.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio1_Notas\Exercicio1_Notas\obj\Debug\net7.0\Exercicio1_Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio1_Notas\Exercicio1_Notas\obj\Debug\net7.0\Exercicio1_Notas.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio1_Notas\Exercicio1_Notas\obj\Debug\net7.0\Exercicio1_Notas.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio1_Notas\Exercicio1_Notas\obj\Debug\net7.0\Exercicio1_Notas.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio1_Notas\Exercicio1_Notas\obj\Debug\net7.0\Exercicio1_Notas.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio1_Notas\Exercicio1_Notas\obj\Debug\net7.0\refint\Exercicio1_Notas.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio1_Notas\Exercicio1_Notas\obj\Debug\net7.0\Exercicio1_Notas.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio1_Notas\Exercicio1_Notas\obj\Debug\net7.0\Exercicio1_Notas.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio1_Notas\Exercicio1_Notas\obj\Debug\net7.0\ref\Exercicio1_Notas.dll

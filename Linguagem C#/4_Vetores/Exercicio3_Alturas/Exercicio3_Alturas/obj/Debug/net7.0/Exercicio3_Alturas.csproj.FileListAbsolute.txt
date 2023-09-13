@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio3_Alturas\Exercicio3_Alturas\bin\Debug\net7.0\Exercicio3_Alturas.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio3_Alturas\Exercicio3_Alturas\bin\Debug\net7.0\Exercicio3_Alturas.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio3_Alturas\Exercicio3_Alturas\bin\Debug\net7.0\Exercicio3_Alturas.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio3_Alturas\Exercicio3_Alturas\bin\Debug\net7.0\Exercicio3_Alturas.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio3_Alturas\Exercicio3_Alturas\bin\Debug\net7.0\Exercicio3_Alturas.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio3_Alturas\Exercicio3_Alturas\obj\Debug\net7.0\Exercicio3_Alturas.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio3_Alturas\Exercicio3_Alturas\obj\Debug\net7.0\Exercicio3_Alturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio3_Alturas\Exercicio3_Alturas\obj\Debug\net7.0\Exercicio3_Alturas.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio3_Alturas\Exercicio3_Alturas\obj\Debug\net7.0\Exercicio3_Alturas.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio3_Alturas\Exercicio3_Alturas\obj\Debug\net7.0\Exercicio3_Alturas.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio3_Alturas\Exercicio3_Alturas\obj\Debug\net7.0\Exercicio3_Alturas.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio3_Alturas\Exercicio3_Alturas\obj\Debug\net7.0\refint\Exercicio3_Alturas.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio3_Alturas\Exercicio3_Alturas\obj\Debug\net7.0\Exercicio3_Alturas.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio3_Alturas\Exercicio3_Alturas\obj\Debug\net7.0\Exercicio3_Alturas.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio3_Alturas\Exercicio3_Alturas\obj\Debug\net7.0\ref\Exercicio3_Alturas.dll

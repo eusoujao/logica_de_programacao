@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio7_Dardo\Exercicio7_Dardo\bin\Debug\net7.0\Exercicio7_Dardo.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio7_Dardo\Exercicio7_Dardo\bin\Debug\net7.0\Exercicio7_Dardo.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio7_Dardo\Exercicio7_Dardo\bin\Debug\net7.0\Exercicio7_Dardo.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio7_Dardo\Exercicio7_Dardo\bin\Debug\net7.0\Exercicio7_Dardo.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio7_Dardo\Exercicio7_Dardo\bin\Debug\net7.0\Exercicio7_Dardo.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio7_Dardo\Exercicio7_Dardo\obj\Debug\net7.0\Exercicio7_Dardo.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio7_Dardo\Exercicio7_Dardo\obj\Debug\net7.0\Exercicio7_Dardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio7_Dardo\Exercicio7_Dardo\obj\Debug\net7.0\Exercicio7_Dardo.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio7_Dardo\Exercicio7_Dardo\obj\Debug\net7.0\Exercicio7_Dardo.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio7_Dardo\Exercicio7_Dardo\obj\Debug\net7.0\Exercicio7_Dardo.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio7_Dardo\Exercicio7_Dardo\obj\Debug\net7.0\Exercicio7_Dardo.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio7_Dardo\Exercicio7_Dardo\obj\Debug\net7.0\refint\Exercicio7_Dardo.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio7_Dardo\Exercicio7_Dardo\obj\Debug\net7.0\Exercicio7_Dardo.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio7_Dardo\Exercicio7_Dardo\obj\Debug\net7.0\Exercicio7_Dardo.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio7_Dardo\Exercicio7_Dardo\obj\Debug\net7.0\ref\Exercicio7_Dardo.dll

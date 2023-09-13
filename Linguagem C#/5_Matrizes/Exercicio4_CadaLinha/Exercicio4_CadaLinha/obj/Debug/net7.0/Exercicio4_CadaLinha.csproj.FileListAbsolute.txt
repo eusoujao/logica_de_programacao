@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio4_CadaLinha\Exercicio4_CadaLinha\bin\Debug\net7.0\Exercicio4_CadaLinha.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio4_CadaLinha\Exercicio4_CadaLinha\bin\Debug\net7.0\Exercicio4_CadaLinha.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio4_CadaLinha\Exercicio4_CadaLinha\bin\Debug\net7.0\Exercicio4_CadaLinha.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio4_CadaLinha\Exercicio4_CadaLinha\bin\Debug\net7.0\Exercicio4_CadaLinha.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio4_CadaLinha\Exercicio4_CadaLinha\bin\Debug\net7.0\Exercicio4_CadaLinha.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio4_CadaLinha\Exercicio4_CadaLinha\obj\Debug\net7.0\Exercicio4_CadaLinha.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio4_CadaLinha\Exercicio4_CadaLinha\obj\Debug\net7.0\Exercicio4_CadaLinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio4_CadaLinha\Exercicio4_CadaLinha\obj\Debug\net7.0\Exercicio4_CadaLinha.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio4_CadaLinha\Exercicio4_CadaLinha\obj\Debug\net7.0\Exercicio4_CadaLinha.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio4_CadaLinha\Exercicio4_CadaLinha\obj\Debug\net7.0\Exercicio4_CadaLinha.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio4_CadaLinha\Exercicio4_CadaLinha\obj\Debug\net7.0\Exercicio4_CadaLinha.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio4_CadaLinha\Exercicio4_CadaLinha\obj\Debug\net7.0\refint\Exercicio4_CadaLinha.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio4_CadaLinha\Exercicio4_CadaLinha\obj\Debug\net7.0\Exercicio4_CadaLinha.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio4_CadaLinha\Exercicio4_CadaLinha\obj\Debug\net7.0\Exercicio4_CadaLinha.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio4_CadaLinha\Exercicio4_CadaLinha\obj\Debug\net7.0\ref\Exercicio4_CadaLinha.dll

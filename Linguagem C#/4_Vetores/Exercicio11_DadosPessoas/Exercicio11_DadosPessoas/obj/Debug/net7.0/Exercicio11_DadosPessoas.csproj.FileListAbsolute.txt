@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio11_DadosPessoas\Exercicio11_DadosPessoas\bin\Debug\net7.0\Exercicio11_DadosPessoas.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio11_DadosPessoas\Exercicio11_DadosPessoas\bin\Debug\net7.0\Exercicio11_DadosPessoas.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio11_DadosPessoas\Exercicio11_DadosPessoas\bin\Debug\net7.0\Exercicio11_DadosPessoas.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio11_DadosPessoas\Exercicio11_DadosPessoas\bin\Debug\net7.0\Exercicio11_DadosPessoas.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio11_DadosPessoas\Exercicio11_DadosPessoas\bin\Debug\net7.0\Exercicio11_DadosPessoas.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio11_DadosPessoas\Exercicio11_DadosPessoas\obj\Debug\net7.0\Exercicio11_DadosPessoas.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio11_DadosPessoas\Exercicio11_DadosPessoas\obj\Debug\net7.0\Exercicio11_DadosPessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio11_DadosPessoas\Exercicio11_DadosPessoas\obj\Debug\net7.0\Exercicio11_DadosPessoas.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio11_DadosPessoas\Exercicio11_DadosPessoas\obj\Debug\net7.0\Exercicio11_DadosPessoas.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio11_DadosPessoas\Exercicio11_DadosPessoas\obj\Debug\net7.0\Exercicio11_DadosPessoas.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio11_DadosPessoas\Exercicio11_DadosPessoas\obj\Debug\net7.0\Exercicio11_DadosPessoas.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio11_DadosPessoas\Exercicio11_DadosPessoas\obj\Debug\net7.0\refint\Exercicio11_DadosPessoas.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio11_DadosPessoas\Exercicio11_DadosPessoas\obj\Debug\net7.0\Exercicio11_DadosPessoas.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio11_DadosPessoas\Exercicio11_DadosPessoas\obj\Debug\net7.0\Exercicio11_DadosPessoas.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio11_DadosPessoas\Exercicio11_DadosPessoas\obj\Debug\net7.0\ref\Exercicio11_DadosPessoas.dll

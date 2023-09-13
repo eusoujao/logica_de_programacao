@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio3_NegativosMatriz\Exercicio3_NegativosMatriz\bin\Debug\net7.0\Exercicio3_NegativosMatriz.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio3_NegativosMatriz\Exercicio3_NegativosMatriz\bin\Debug\net7.0\Exercicio3_NegativosMatriz.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio3_NegativosMatriz\Exercicio3_NegativosMatriz\bin\Debug\net7.0\Exercicio3_NegativosMatriz.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio3_NegativosMatriz\Exercicio3_NegativosMatriz\bin\Debug\net7.0\Exercicio3_NegativosMatriz.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio3_NegativosMatriz\Exercicio3_NegativosMatriz\bin\Debug\net7.0\Exercicio3_NegativosMatriz.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio3_NegativosMatriz\Exercicio3_NegativosMatriz\obj\Debug\net7.0\Exercicio3_NegativosMatriz.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio3_NegativosMatriz\Exercicio3_NegativosMatriz\obj\Debug\net7.0\Exercicio3_NegativosMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio3_NegativosMatriz\Exercicio3_NegativosMatriz\obj\Debug\net7.0\Exercicio3_NegativosMatriz.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio3_NegativosMatriz\Exercicio3_NegativosMatriz\obj\Debug\net7.0\Exercicio3_NegativosMatriz.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio3_NegativosMatriz\Exercicio3_NegativosMatriz\obj\Debug\net7.0\Exercicio3_NegativosMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio3_NegativosMatriz\Exercicio3_NegativosMatriz\obj\Debug\net7.0\Exercicio3_NegativosMatriz.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio3_NegativosMatriz\Exercicio3_NegativosMatriz\obj\Debug\net7.0\refint\Exercicio3_NegativosMatriz.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio3_NegativosMatriz\Exercicio3_NegativosMatriz\obj\Debug\net7.0\Exercicio3_NegativosMatriz.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio3_NegativosMatriz\Exercicio3_NegativosMatriz\obj\Debug\net7.0\Exercicio3_NegativosMatriz.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio3_NegativosMatriz\Exercicio3_NegativosMatriz\obj\Debug\net7.0\ref\Exercicio3_NegativosMatriz.dll

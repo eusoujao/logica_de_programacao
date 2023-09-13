@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio9_MaisVelho\Exercicio9_MaisVelho\bin\Debug\net7.0\Exercicio9_MaisVelho.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio9_MaisVelho\Exercicio9_MaisVelho\bin\Debug\net7.0\Exercicio9_MaisVelho.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio9_MaisVelho\Exercicio9_MaisVelho\bin\Debug\net7.0\Exercicio9_MaisVelho.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio9_MaisVelho\Exercicio9_MaisVelho\bin\Debug\net7.0\Exercicio9_MaisVelho.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio9_MaisVelho\Exercicio9_MaisVelho\bin\Debug\net7.0\Exercicio9_MaisVelho.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio9_MaisVelho\Exercicio9_MaisVelho\obj\Debug\net7.0\Exercicio9_MaisVelho.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio9_MaisVelho\Exercicio9_MaisVelho\obj\Debug\net7.0\Exercicio9_MaisVelho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio9_MaisVelho\Exercicio9_MaisVelho\obj\Debug\net7.0\Exercicio9_MaisVelho.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio9_MaisVelho\Exercicio9_MaisVelho\obj\Debug\net7.0\Exercicio9_MaisVelho.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio9_MaisVelho\Exercicio9_MaisVelho\obj\Debug\net7.0\Exercicio9_MaisVelho.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio9_MaisVelho\Exercicio9_MaisVelho\obj\Debug\net7.0\Exercicio9_MaisVelho.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio9_MaisVelho\Exercicio9_MaisVelho\obj\Debug\net7.0\refint\Exercicio9_MaisVelho.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio9_MaisVelho\Exercicio9_MaisVelho\obj\Debug\net7.0\Exercicio9_MaisVelho.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio9_MaisVelho\Exercicio9_MaisVelho\obj\Debug\net7.0\Exercicio9_MaisVelho.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio9_MaisVelho\Exercicio9_MaisVelho\obj\Debug\net7.0\ref\Exercicio9_MaisVelho.dll

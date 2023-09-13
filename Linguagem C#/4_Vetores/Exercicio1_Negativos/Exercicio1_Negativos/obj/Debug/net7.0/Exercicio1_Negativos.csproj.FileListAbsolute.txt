@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio1_Negativos\Exercicio1_Negativos\obj\Debug\net7.0\Exercicio1_Negativos.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio1_Negativos\Exercicio1_Negativos\obj\Debug\net7.0\Exercicio1_Negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio1_Negativos\Exercicio1_Negativos\obj\Debug\net7.0\Exercicio1_Negativos.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio1_Negativos\Exercicio1_Negativos\obj\Debug\net7.0\Exercicio1_Negativos.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio1_Negativos\Exercicio1_Negativos\obj\Debug\net7.0\Exercicio1_Negativos.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio1_Negativos\Exercicio1_Negativos\bin\Debug\net7.0\Exercicio1_Negativos.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio1_Negativos\Exercicio1_Negativos\bin\Debug\net7.0\Exercicio1_Negativos.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio1_Negativos\Exercicio1_Negativos\bin\Debug\net7.0\Exercicio1_Negativos.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio1_Negativos\Exercicio1_Negativos\bin\Debug\net7.0\Exercicio1_Negativos.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio1_Negativos\Exercicio1_Negativos\bin\Debug\net7.0\Exercicio1_Negativos.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio1_Negativos\Exercicio1_Negativos\obj\Debug\net7.0\Exercicio1_Negativos.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio1_Negativos\Exercicio1_Negativos\obj\Debug\net7.0\refint\Exercicio1_Negativos.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio1_Negativos\Exercicio1_Negativos\obj\Debug\net7.0\Exercicio1_Negativos.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio1_Negativos\Exercicio1_Negativos\obj\Debug\net7.0\Exercicio1_Negativos.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio1_Negativos\Exercicio1_Negativos\obj\Debug\net7.0\ref\Exercicio1_Negativos.dll

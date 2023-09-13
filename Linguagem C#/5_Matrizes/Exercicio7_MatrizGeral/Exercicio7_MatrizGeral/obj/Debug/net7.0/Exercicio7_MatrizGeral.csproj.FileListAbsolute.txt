@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio7_MatrizGeral\Exercicio7_MatrizGeral\obj\Debug\net7.0\Exercicio7_MatrizGeral.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio7_MatrizGeral\Exercicio7_MatrizGeral\obj\Debug\net7.0\Exercicio7_MatrizGeral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio7_MatrizGeral\Exercicio7_MatrizGeral\obj\Debug\net7.0\Exercicio7_MatrizGeral.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio7_MatrizGeral\Exercicio7_MatrizGeral\obj\Debug\net7.0\Exercicio7_MatrizGeral.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio7_MatrizGeral\Exercicio7_MatrizGeral\obj\Debug\net7.0\Exercicio7_MatrizGeral.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio7_MatrizGeral\Exercicio7_MatrizGeral\bin\Debug\net7.0\Exercicio7_MatrizGeral.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio7_MatrizGeral\Exercicio7_MatrizGeral\bin\Debug\net7.0\Exercicio7_MatrizGeral.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio7_MatrizGeral\Exercicio7_MatrizGeral\bin\Debug\net7.0\Exercicio7_MatrizGeral.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio7_MatrizGeral\Exercicio7_MatrizGeral\bin\Debug\net7.0\Exercicio7_MatrizGeral.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio7_MatrizGeral\Exercicio7_MatrizGeral\bin\Debug\net7.0\Exercicio7_MatrizGeral.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio7_MatrizGeral\Exercicio7_MatrizGeral\obj\Debug\net7.0\Exercicio7_MatrizGeral.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio7_MatrizGeral\Exercicio7_MatrizGeral\obj\Debug\net7.0\refint\Exercicio7_MatrizGeral.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio7_MatrizGeral\Exercicio7_MatrizGeral\obj\Debug\net7.0\Exercicio7_MatrizGeral.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio7_MatrizGeral\Exercicio7_MatrizGeral\obj\Debug\net7.0\Exercicio7_MatrizGeral.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio7_MatrizGeral\Exercicio7_MatrizGeral\obj\Debug\net7.0\ref\Exercicio7_MatrizGeral.dll

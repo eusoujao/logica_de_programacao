@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio2_SomaLinhas\Exercicio2_SomaLinhas\bin\Debug\net7.0\Exercicio2_SomaLinhas.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio2_SomaLinhas\Exercicio2_SomaLinhas\bin\Debug\net7.0\Exercicio2_SomaLinhas.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio2_SomaLinhas\Exercicio2_SomaLinhas\bin\Debug\net7.0\Exercicio2_SomaLinhas.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio2_SomaLinhas\Exercicio2_SomaLinhas\bin\Debug\net7.0\Exercicio2_SomaLinhas.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio2_SomaLinhas\Exercicio2_SomaLinhas\bin\Debug\net7.0\Exercicio2_SomaLinhas.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio2_SomaLinhas\Exercicio2_SomaLinhas\obj\Debug\net7.0\Exercicio2_SomaLinhas.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio2_SomaLinhas\Exercicio2_SomaLinhas\obj\Debug\net7.0\Exercicio2_SomaLinhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio2_SomaLinhas\Exercicio2_SomaLinhas\obj\Debug\net7.0\Exercicio2_SomaLinhas.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio2_SomaLinhas\Exercicio2_SomaLinhas\obj\Debug\net7.0\Exercicio2_SomaLinhas.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio2_SomaLinhas\Exercicio2_SomaLinhas\obj\Debug\net7.0\Exercicio2_SomaLinhas.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio2_SomaLinhas\Exercicio2_SomaLinhas\obj\Debug\net7.0\Exercicio2_SomaLinhas.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio2_SomaLinhas\Exercicio2_SomaLinhas\obj\Debug\net7.0\refint\Exercicio2_SomaLinhas.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio2_SomaLinhas\Exercicio2_SomaLinhas\obj\Debug\net7.0\Exercicio2_SomaLinhas.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio2_SomaLinhas\Exercicio2_SomaLinhas\obj\Debug\net7.0\Exercicio2_SomaLinhas.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio2_SomaLinhas\Exercicio2_SomaLinhas\obj\Debug\net7.0\ref\Exercicio2_SomaLinhas.dll

@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio5_MaiorPosicao\Exercicio5_MaiorPosicao\bin\Debug\net7.0\Exercicio5_MaiorPosicao.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio5_MaiorPosicao\Exercicio5_MaiorPosicao\bin\Debug\net7.0\Exercicio5_MaiorPosicao.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio5_MaiorPosicao\Exercicio5_MaiorPosicao\bin\Debug\net7.0\Exercicio5_MaiorPosicao.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio5_MaiorPosicao\Exercicio5_MaiorPosicao\bin\Debug\net7.0\Exercicio5_MaiorPosicao.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio5_MaiorPosicao\Exercicio5_MaiorPosicao\bin\Debug\net7.0\Exercicio5_MaiorPosicao.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio5_MaiorPosicao\Exercicio5_MaiorPosicao\obj\Debug\net7.0\Exercicio5_MaiorPosicao.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio5_MaiorPosicao\Exercicio5_MaiorPosicao\obj\Debug\net7.0\Exercicio5_MaiorPosicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio5_MaiorPosicao\Exercicio5_MaiorPosicao\obj\Debug\net7.0\Exercicio5_MaiorPosicao.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio5_MaiorPosicao\Exercicio5_MaiorPosicao\obj\Debug\net7.0\Exercicio5_MaiorPosicao.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio5_MaiorPosicao\Exercicio5_MaiorPosicao\obj\Debug\net7.0\Exercicio5_MaiorPosicao.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio5_MaiorPosicao\Exercicio5_MaiorPosicao\obj\Debug\net7.0\Exercicio5_MaiorPosicao.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio5_MaiorPosicao\Exercicio5_MaiorPosicao\obj\Debug\net7.0\refint\Exercicio5_MaiorPosicao.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio5_MaiorPosicao\Exercicio5_MaiorPosicao\obj\Debug\net7.0\Exercicio5_MaiorPosicao.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio5_MaiorPosicao\Exercicio5_MaiorPosicao\obj\Debug\net7.0\Exercicio5_MaiorPosicao.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio5_MaiorPosicao\Exercicio5_MaiorPosicao\obj\Debug\net7.0\ref\Exercicio5_MaiorPosicao.dll

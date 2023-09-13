@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio2_Baskara\Exercicio2_Baskara\bin\Debug\net7.0\Exercicio2_Baskara.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio2_Baskara\Exercicio2_Baskara\bin\Debug\net7.0\Exercicio2_Baskara.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio2_Baskara\Exercicio2_Baskara\bin\Debug\net7.0\Exercicio2_Baskara.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio2_Baskara\Exercicio2_Baskara\bin\Debug\net7.0\Exercicio2_Baskara.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio2_Baskara\Exercicio2_Baskara\bin\Debug\net7.0\Exercicio2_Baskara.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio2_Baskara\Exercicio2_Baskara\obj\Debug\net7.0\Exercicio2_Baskara.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio2_Baskara\Exercicio2_Baskara\obj\Debug\net7.0\Exercicio2_Baskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio2_Baskara\Exercicio2_Baskara\obj\Debug\net7.0\Exercicio2_Baskara.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio2_Baskara\Exercicio2_Baskara\obj\Debug\net7.0\Exercicio2_Baskara.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio2_Baskara\Exercicio2_Baskara\obj\Debug\net7.0\Exercicio2_Baskara.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio2_Baskara\Exercicio2_Baskara\obj\Debug\net7.0\Exercicio2_Baskara.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio2_Baskara\Exercicio2_Baskara\obj\Debug\net7.0\refint\Exercicio2_Baskara.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio2_Baskara\Exercicio2_Baskara\obj\Debug\net7.0\Exercicio2_Baskara.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio2_Baskara\Exercicio2_Baskara\obj\Debug\net7.0\Exercicio2_Baskara.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio2_Baskara\Exercicio2_Baskara\obj\Debug\net7.0\ref\Exercicio2_Baskara.dll

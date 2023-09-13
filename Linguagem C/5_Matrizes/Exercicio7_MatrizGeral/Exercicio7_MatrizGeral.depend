@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686871591 source:c:\users\jão\onedrive\Área de trabalho\curso da udemy\linguagem c\5° matrizes\exercicios\exercicio7_matrizgeral\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

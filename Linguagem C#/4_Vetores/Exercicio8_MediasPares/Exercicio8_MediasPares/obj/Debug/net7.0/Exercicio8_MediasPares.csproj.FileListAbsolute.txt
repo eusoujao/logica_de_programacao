@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio8_MediasPares\Exercicio8_MediasPares\bin\Debug\net7.0\Exercicio8_MediasPares.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio8_MediasPares\Exercicio8_MediasPares\bin\Debug\net7.0\Exercicio8_MediasPares.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio8_MediasPares\Exercicio8_MediasPares\bin\Debug\net7.0\Exercicio8_MediasPares.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio8_MediasPares\Exercicio8_MediasPares\bin\Debug\net7.0\Exercicio8_MediasPares.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio8_MediasPares\Exercicio8_MediasPares\bin\Debug\net7.0\Exercicio8_MediasPares.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio8_MediasPares\Exercicio8_MediasPares\obj\Debug\net7.0\Exercicio8_MediasPares.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio8_MediasPares\Exercicio8_MediasPares\obj\Debug\net7.0\Exercicio8_MediasPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio8_MediasPares\Exercicio8_MediasPares\obj\Debug\net7.0\Exercicio8_MediasPares.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio8_MediasPares\Exercicio8_MediasPares\obj\Debug\net7.0\Exercicio8_MediasPares.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio8_MediasPares\Exercicio8_MediasPares\obj\Debug\net7.0\Exercicio8_MediasPares.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio8_MediasPares\Exercicio8_MediasPares\obj\Debug\net7.0\Exercicio8_MediasPares.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio8_MediasPares\Exercicio8_MediasPares\obj\Debug\net7.0\refint\Exercicio8_MediasPares.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio8_MediasPares\Exercicio8_MediasPares\obj\Debug\net7.0\Exercicio8_MediasPares.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio8_MediasPares\Exercicio8_MediasPares\obj\Debug\net7.0\Exercicio8_MediasPares.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio8_MediasPares\Exercicio8_MediasPares\obj\Debug\net7.0\ref\Exercicio8_MediasPares.dll

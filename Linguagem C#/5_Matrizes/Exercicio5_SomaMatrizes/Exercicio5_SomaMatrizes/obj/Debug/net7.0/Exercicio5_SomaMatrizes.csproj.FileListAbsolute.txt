@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio5_SomaMatrizes\Exercicio5_SomaMatrizes\bin\Debug\net7.0\Exercicio5_SomaMatrizes.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio5_SomaMatrizes\Exercicio5_SomaMatrizes\bin\Debug\net7.0\Exercicio5_SomaMatrizes.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio5_SomaMatrizes\Exercicio5_SomaMatrizes\bin\Debug\net7.0\Exercicio5_SomaMatrizes.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio5_SomaMatrizes\Exercicio5_SomaMatrizes\bin\Debug\net7.0\Exercicio5_SomaMatrizes.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio5_SomaMatrizes\Exercicio5_SomaMatrizes\bin\Debug\net7.0\Exercicio5_SomaMatrizes.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio5_SomaMatrizes\Exercicio5_SomaMatrizes\obj\Debug\net7.0\Exercicio5_SomaMatrizes.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio5_SomaMatrizes\Exercicio5_SomaMatrizes\obj\Debug\net7.0\Exercicio5_SomaMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio5_SomaMatrizes\Exercicio5_SomaMatrizes\obj\Debug\net7.0\Exercicio5_SomaMatrizes.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio5_SomaMatrizes\Exercicio5_SomaMatrizes\obj\Debug\net7.0\Exercicio5_SomaMatrizes.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio5_SomaMatrizes\Exercicio5_SomaMatrizes\obj\Debug\net7.0\Exercicio5_SomaMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio5_SomaMatrizes\Exercicio5_SomaMatrizes\obj\Debug\net7.0\Exercicio5_SomaMatrizes.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio5_SomaMatrizes\Exercicio5_SomaMatrizes\obj\Debug\net7.0\refint\Exercicio5_SomaMatrizes.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio5_SomaMatrizes\Exercicio5_SomaMatrizes\obj\Debug\net7.0\Exercicio5_SomaMatrizes.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio5_SomaMatrizes\Exercicio5_SomaMatrizes\obj\Debug\net7.0\Exercicio5_SomaMatrizes.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio5_SomaMatrizes\Exercicio5_SomaMatrizes\obj\Debug\net7.0\ref\Exercicio5_SomaMatrizes.dll

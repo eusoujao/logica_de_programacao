@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio2_SomaVetor\Exercicio2_SomaVetor\bin\Debug\net7.0\Exercicio2_SomaVetor.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio2_SomaVetor\Exercicio2_SomaVetor\bin\Debug\net7.0\Exercicio2_SomaVetor.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio2_SomaVetor\Exercicio2_SomaVetor\bin\Debug\net7.0\Exercicio2_SomaVetor.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio2_SomaVetor\Exercicio2_SomaVetor\bin\Debug\net7.0\Exercicio2_SomaVetor.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio2_SomaVetor\Exercicio2_SomaVetor\bin\Debug\net7.0\Exercicio2_SomaVetor.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio2_SomaVetor\Exercicio2_SomaVetor\obj\Debug\net7.0\Exercicio2_SomaVetor.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio2_SomaVetor\Exercicio2_SomaVetor\obj\Debug\net7.0\Exercicio2_SomaVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio2_SomaVetor\Exercicio2_SomaVetor\obj\Debug\net7.0\Exercicio2_SomaVetor.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio2_SomaVetor\Exercicio2_SomaVetor\obj\Debug\net7.0\Exercicio2_SomaVetor.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio2_SomaVetor\Exercicio2_SomaVetor\obj\Debug\net7.0\Exercicio2_SomaVetor.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio2_SomaVetor\Exercicio2_SomaVetor\obj\Debug\net7.0\Exercicio2_SomaVetor.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio2_SomaVetor\Exercicio2_SomaVetor\obj\Debug\net7.0\refint\Exercicio2_SomaVetor.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio2_SomaVetor\Exercicio2_SomaVetor\obj\Debug\net7.0\Exercicio2_SomaVetor.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio2_SomaVetor\Exercicio2_SomaVetor\obj\Debug\net7.0\Exercicio2_SomaVetor.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio2_SomaVetor\Exercicio2_SomaVetor\obj\Debug\net7.0\ref\Exercicio2_SomaVetor.dll

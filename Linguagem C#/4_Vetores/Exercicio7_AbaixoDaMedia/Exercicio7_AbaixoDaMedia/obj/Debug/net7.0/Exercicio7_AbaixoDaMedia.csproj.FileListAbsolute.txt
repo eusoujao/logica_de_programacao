@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio7_AbaixoDaMedia\Exercicio7_AbaixoDaMedia\bin\Debug\net7.0\Exercicio7_AbaixoDaMedia.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio7_AbaixoDaMedia\Exercicio7_AbaixoDaMedia\bin\Debug\net7.0\Exercicio7_AbaixoDaMedia.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio7_AbaixoDaMedia\Exercicio7_AbaixoDaMedia\bin\Debug\net7.0\Exercicio7_AbaixoDaMedia.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio7_AbaixoDaMedia\Exercicio7_AbaixoDaMedia\bin\Debug\net7.0\Exercicio7_AbaixoDaMedia.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio7_AbaixoDaMedia\Exercicio7_AbaixoDaMedia\bin\Debug\net7.0\Exercicio7_AbaixoDaMedia.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio7_AbaixoDaMedia\Exercicio7_AbaixoDaMedia\obj\Debug\net7.0\Exercicio7_AbaixoDaMedia.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio7_AbaixoDaMedia\Exercicio7_AbaixoDaMedia\obj\Debug\net7.0\Exercicio7_AbaixoDaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio7_AbaixoDaMedia\Exercicio7_AbaixoDaMedia\obj\Debug\net7.0\Exercicio7_AbaixoDaMedia.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio7_AbaixoDaMedia\Exercicio7_AbaixoDaMedia\obj\Debug\net7.0\Exercicio7_AbaixoDaMedia.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio7_AbaixoDaMedia\Exercicio7_AbaixoDaMedia\obj\Debug\net7.0\Exercicio7_AbaixoDaMedia.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio7_AbaixoDaMedia\Exercicio7_AbaixoDaMedia\obj\Debug\net7.0\Exercicio7_AbaixoDaMedia.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio7_AbaixoDaMedia\Exercicio7_AbaixoDaMedia\obj\Debug\net7.0\refint\Exercicio7_AbaixoDaMedia.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio7_AbaixoDaMedia\Exercicio7_AbaixoDaMedia\obj\Debug\net7.0\Exercicio7_AbaixoDaMedia.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio7_AbaixoDaMedia\Exercicio7_AbaixoDaMedia\obj\Debug\net7.0\Exercicio7_AbaixoDaMedia.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio7_AbaixoDaMedia\Exercicio7_AbaixoDaMedia\obj\Debug\net7.0\ref\Exercicio7_AbaixoDaMedia.dll

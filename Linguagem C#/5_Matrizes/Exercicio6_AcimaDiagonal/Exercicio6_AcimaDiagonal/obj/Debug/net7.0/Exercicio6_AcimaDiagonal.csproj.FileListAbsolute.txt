@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio6_AcimaDiagonal\Exercicio6_AcimaDiagonal\bin\Debug\net7.0\Exercicio6_AcimaDiagonal.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio6_AcimaDiagonal\Exercicio6_AcimaDiagonal\bin\Debug\net7.0\Exercicio6_AcimaDiagonal.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio6_AcimaDiagonal\Exercicio6_AcimaDiagonal\bin\Debug\net7.0\Exercicio6_AcimaDiagonal.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio6_AcimaDiagonal\Exercicio6_AcimaDiagonal\bin\Debug\net7.0\Exercicio6_AcimaDiagonal.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio6_AcimaDiagonal\Exercicio6_AcimaDiagonal\bin\Debug\net7.0\Exercicio6_AcimaDiagonal.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio6_AcimaDiagonal\Exercicio6_AcimaDiagonal\obj\Debug\net7.0\Exercicio6_AcimaDiagonal.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio6_AcimaDiagonal\Exercicio6_AcimaDiagonal\obj\Debug\net7.0\Exercicio6_AcimaDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio6_AcimaDiagonal\Exercicio6_AcimaDiagonal\obj\Debug\net7.0\Exercicio6_AcimaDiagonal.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio6_AcimaDiagonal\Exercicio6_AcimaDiagonal\obj\Debug\net7.0\Exercicio6_AcimaDiagonal.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio6_AcimaDiagonal\Exercicio6_AcimaDiagonal\obj\Debug\net7.0\Exercicio6_AcimaDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio6_AcimaDiagonal\Exercicio6_AcimaDiagonal\obj\Debug\net7.0\Exercicio6_AcimaDiagonal.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio6_AcimaDiagonal\Exercicio6_AcimaDiagonal\obj\Debug\net7.0\refint\Exercicio6_AcimaDiagonal.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio6_AcimaDiagonal\Exercicio6_AcimaDiagonal\obj\Debug\net7.0\Exercicio6_AcimaDiagonal.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio6_AcimaDiagonal\Exercicio6_AcimaDiagonal\obj\Debug\net7.0\Exercicio6_AcimaDiagonal.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\5° Matrizes\Exercicios\Exercicio6_AcimaDiagonal\Exercicio6_AcimaDiagonal\obj\Debug\net7.0\ref\Exercicio6_AcimaDiagonal.dll

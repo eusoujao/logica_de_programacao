@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio4_Pares\Exercicio4_Pares\bin\Debug\net7.0\Exercicio4_Pares.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio4_Pares\Exercicio4_Pares\bin\Debug\net7.0\Exercicio4_Pares.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio4_Pares\Exercicio4_Pares\bin\Debug\net7.0\Exercicio4_Pares.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio4_Pares\Exercicio4_Pares\bin\Debug\net7.0\Exercicio4_Pares.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio4_Pares\Exercicio4_Pares\bin\Debug\net7.0\Exercicio4_Pares.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio4_Pares\Exercicio4_Pares\obj\Debug\net7.0\Exercicio4_Pares.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio4_Pares\Exercicio4_Pares\obj\Debug\net7.0\Exercicio4_Pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio4_Pares\Exercicio4_Pares\obj\Debug\net7.0\Exercicio4_Pares.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio4_Pares\Exercicio4_Pares\obj\Debug\net7.0\Exercicio4_Pares.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio4_Pares\Exercicio4_Pares\obj\Debug\net7.0\Exercicio4_Pares.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio4_Pares\Exercicio4_Pares\obj\Debug\net7.0\Exercicio4_Pares.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio4_Pares\Exercicio4_Pares\obj\Debug\net7.0\refint\Exercicio4_Pares.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio4_Pares\Exercicio4_Pares\obj\Debug\net7.0\Exercicio4_Pares.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio4_Pares\Exercicio4_Pares\obj\Debug\net7.0\Exercicio4_Pares.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio4_Pares\Exercicio4_Pares\obj\Debug\net7.0\ref\Exercicio4_Pares.dll

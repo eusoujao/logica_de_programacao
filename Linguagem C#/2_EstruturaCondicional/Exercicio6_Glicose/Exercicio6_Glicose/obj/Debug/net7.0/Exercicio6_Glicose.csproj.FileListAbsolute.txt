@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio6_Glicose\Exercicio6_Glicose\bin\Debug\net7.0\Exercicio6_Glicose.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio6_Glicose\Exercicio6_Glicose\bin\Debug\net7.0\Exercicio6_Glicose.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio6_Glicose\Exercicio6_Glicose\bin\Debug\net7.0\Exercicio6_Glicose.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio6_Glicose\Exercicio6_Glicose\bin\Debug\net7.0\Exercicio6_Glicose.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio6_Glicose\Exercicio6_Glicose\bin\Debug\net7.0\Exercicio6_Glicose.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio6_Glicose\Exercicio6_Glicose\obj\Debug\net7.0\Exercicio6_Glicose.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio6_Glicose\Exercicio6_Glicose\obj\Debug\net7.0\Exercicio6_Glicose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio6_Glicose\Exercicio6_Glicose\obj\Debug\net7.0\Exercicio6_Glicose.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio6_Glicose\Exercicio6_Glicose\obj\Debug\net7.0\Exercicio6_Glicose.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio6_Glicose\Exercicio6_Glicose\obj\Debug\net7.0\Exercicio6_Glicose.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio6_Glicose\Exercicio6_Glicose\obj\Debug\net7.0\Exercicio6_Glicose.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio6_Glicose\Exercicio6_Glicose\obj\Debug\net7.0\refint\Exercicio6_Glicose.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio6_Glicose\Exercicio6_Glicose\obj\Debug\net7.0\Exercicio6_Glicose.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio6_Glicose\Exercicio6_Glicose\obj\Debug\net7.0\Exercicio6_Glicose.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\2° Estrutura Condicional\Exercicios com IF e ELSE\Exercicio6_Glicose\Exercicio6_Glicose\obj\Debug\net7.0\ref\Exercicio6_Glicose.dll

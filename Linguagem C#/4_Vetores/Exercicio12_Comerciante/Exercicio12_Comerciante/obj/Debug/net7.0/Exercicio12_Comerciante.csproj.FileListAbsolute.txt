@@ -1,0 +1,15 @@
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio12_Comerciante\Exercicio12_Comerciante\bin\Debug\net7.0\Exercicio12_Comerciante.exe
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio12_Comerciante\Exercicio12_Comerciante\bin\Debug\net7.0\Exercicio12_Comerciante.deps.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio12_Comerciante\Exercicio12_Comerciante\bin\Debug\net7.0\Exercicio12_Comerciante.runtimeconfig.json
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio12_Comerciante\Exercicio12_Comerciante\bin\Debug\net7.0\Exercicio12_Comerciante.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio12_Comerciante\Exercicio12_Comerciante\bin\Debug\net7.0\Exercicio12_Comerciante.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio12_Comerciante\Exercicio12_Comerciante\obj\Debug\net7.0\Exercicio12_Comerciante.csproj.AssemblyReference.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio12_Comerciante\Exercicio12_Comerciante\obj\Debug\net7.0\Exercicio12_Comerciante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio12_Comerciante\Exercicio12_Comerciante\obj\Debug\net7.0\Exercicio12_Comerciante.AssemblyInfoInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio12_Comerciante\Exercicio12_Comerciante\obj\Debug\net7.0\Exercicio12_Comerciante.AssemblyInfo.cs
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio12_Comerciante\Exercicio12_Comerciante\obj\Debug\net7.0\Exercicio12_Comerciante.csproj.CoreCompileInputs.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio12_Comerciante\Exercicio12_Comerciante\obj\Debug\net7.0\Exercicio12_Comerciante.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio12_Comerciante\Exercicio12_Comerciante\obj\Debug\net7.0\refint\Exercicio12_Comerciante.dll
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio12_Comerciante\Exercicio12_Comerciante\obj\Debug\net7.0\Exercicio12_Comerciante.pdb
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio12_Comerciante\Exercicio12_Comerciante\obj\Debug\net7.0\Exercicio12_Comerciante.genruntimeconfig.cache
+C:\Users\Jão\OneDrive\Área de Trabalho\Curso da Udemy\4° Linguagem C#\4° Vetores\Exercicios\Exercicio12_Comerciante\Exercicio12_Comerciante\obj\Debug\net7.0\ref\Exercicio12_Comerciante.dll
