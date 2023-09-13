@@ -4,7 +4,7 @@ Bem-vindo ao repositório de exercícios de lógica de programação, criado com
 
 ## Sobre o Curso
 
-"Algoritimos e Lógica de Programação 2023 - O Curso Completo" na Udemy ([inclua um link para o curso, se possível](https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/)). Os exercícios aqui presentes são alinhados com o conteúdo do curso e são uma extensão valiosa para o aprendizado.
+"Algoritimos e Lógica de Programação 2023 - O Curso Completo" na Udemy ([link para o curso](https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/)). Os exercícios aqui presentes são alinhados com o conteúdo do curso e são uma extensão valiosa para o aprendizado.
 
 ## Conteúdo
 
